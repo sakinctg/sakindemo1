@@ -1,4 +1,8 @@
 sakin dev1
+<<<<<<< HEAD
 sakin
 sakin
 
+=======
+dev1
+>>>>>>> 35ec8dac2f3e1ddf0ad4d068edabf2412e300d18
